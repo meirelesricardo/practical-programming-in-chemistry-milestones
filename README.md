@@ -7,15 +7,15 @@ The **personal milestones table** outlines key milestones for practical programm
 
 | Week | Milestone                                   | Link                                                                        |      
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
-| 1    | Github Account Created                      | https://github.com/`username`                                               | 
-| 1    | Github Profile Page                         | https://github.com/`username`/`username`                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/`username`/`repo-name`/commit/`commit-nr`                |
-| 1    | Create a New Branch                         | https://github.com/`username`/`repo-name`/tree/`new-branch-name`            |
-| 1    | Create a conda environment                  | https://github.com/`username`/`repo-name`/blob/`branch-name`/`env.yml`      |
-| 1    | Fork a Repo                                 | https://github.com/`username`/practical-programming-in-chemistry-milestones |
-| 1    | (Optional) Make a Pull Request              | |
-| 2    | (Optional) Review a Pull Request            | |
-| 4    | Update `env.yml` via a Pull Request         | https://github.com/`username`/practical-programming-in-chemistry-milestones/pull/`pull-request-number` |
+| 1    | Github Account Created                      | https://github.com/meirelesricardo |
+| 1    | Github Profile Page Updated                 | https://github.com/meirelesricardo/meirelesricardo |
+| 1    | Commit and Push Change from Command Line    | https://github.com/meirelesricardo/ppchem/commit/7817b05b3b424f28113989fcfb0829f89f9f7cf2 |
+| 1    | Create a New Branch                         | https://github.com/meirelesricardo/ppchem/tree/new-branch-name |
+| 1    | Create a conda environment                  | https://github.com/meirelesricardo/ppchem/blob/main/env.yml |
+| 1    | Fork a Repo                                 | https://github.com/meirelesricardo/practical-programming-in-chemistry-milestones |
+| 1    | (Optional) Make a Pull Request              | https://github.com/meirelesricardo/ppchem/pull/1 |
+| 2    | (Optional) Review a Pull Request            | https://github.com/meirelesricardo/ppchem/pull/1 |
+| 4    | Update `env.yml` via a Pull Request         |  |
 
 **More milestones will be added throughout the course.**
 
